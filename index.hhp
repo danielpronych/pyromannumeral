@@ -1,0 +1,57 @@
+[OPTIONS]
+Compiled file=roman_numeral.chm
+Compatibility=1.1
+Full-text search=Yes
+Contents file=index.hhc
+Default Window=main
+Default topic=index.html
+Index file=index.hhk
+Language=0x409 English (United States)
+Title=Roman Numeral Library
+
+[WINDOWS]
+main="Roman Numeral Library","index.hhc","index.hhk","index.html","index.html",,,,,0x23520,,0x10387e,,,,,,,,0
+
+[FILES]
+roman__numeral_8py_source.html
+test__roman__numeral_8py_source.html
+roman__numeral_8py.html
+test__roman__numeral_8py.html
+namespaceroman__numeral.html
+namespacetest__roman__numeral.html
+dir_68267d1309a1af8e8297ef4c3efbcdba.html
+index.html
+namespaces.html
+namespacemembers.html
+namespacemembers_func.html
+namespacemembers_vars.html
+files.html
+tab_a.png
+tab_b.png
+tab_h.png
+tab_s.png
+nav_h.png
+nav_f.png
+bc_s.png
+doxygen.png
+closed.png
+open.png
+bdwn.png
+sync_on.png
+sync_off.png
+ftv2blank.png
+ftv2doc.png
+ftv2folderclosed.png
+ftv2folderopen.png
+ftv2ns.png
+ftv2mo.png
+ftv2cl.png
+ftv2lastnode.png
+ftv2link.png
+ftv2mlastnode.png
+ftv2mnode.png
+ftv2node.png
+ftv2plastnode.png
+ftv2pnode.png
+ftv2vertline.png
+ftv2splitbar.png

@@ -1,5 +1,7 @@
 """
+@file roman_numeral.py Roman Numeral Class Source File
 @name Python Roman Numeral
+@package roman_numeral Roman Numeral Class
 @author Daniel Pronych
 @date December 2010
 @version 1.0.0
@@ -30,8 +32,7 @@ def integer_to_roman(integer):
   @brief Integer to Roman Numeral Conversion Routine
   @param integer The integer number sent for conversion.
   @exception ValueError will be thrown if an invalid integer specified.
-  @return string representing the Roman Numeral equivalent of input integer.
-  """
+  @return string representing the Roman Numeral equivalent of input integer."""
   try:
     number = int(integer)
   except:

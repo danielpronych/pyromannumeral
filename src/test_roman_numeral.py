@@ -1,9 +1,11 @@
 """
+@file test_roman_numeral.py Test Roman Numeral Source File
 @name Test Python Roman Numerals
+@package test_roman_numeral Test Roman Numeral Class
 @author Daniel Pronych
 @date December 2010
 @version 1.0.0
-    
+
 Provides a nose testing system that encapsulates Integer <--> Roman Numeral.
 
 * Important: Requires the nose and functools packages to run the test suite.

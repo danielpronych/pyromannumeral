@@ -1,7 +1,7 @@
 """
-@file roman_numeral.py Roman Numeral Class Source File
+@file roman_numeral.py Roman Numeral Source File
 @name Python Roman Numeral
-@package roman_numeral Roman Numeral Class
+@package roman_numeral Roman Numeral Routines
 @author Daniel Pronych
 @date December 2010
 @version 1.0.0

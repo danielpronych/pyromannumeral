@@ -1,7 +1,7 @@
 """
 @file test_roman_numeral.py Test Roman Numeral Source File
 @name Test Python Roman Numerals
-@package test_roman_numeral Test Roman Numeral Class
+@package test_roman_numeral Test Roman Numeral Routines
 @author Daniel Pronych
 @date December 2010
 @version 1.0.0

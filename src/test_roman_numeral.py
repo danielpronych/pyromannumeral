@@ -63,7 +63,7 @@ def check_int2roman(integer, numeral, description):
   @exception AssertionError will be thrown if an invalid integer specified."""
   i = integer
   n = numeral
-  assert (integer_to_roman(i) == n, description)
+  assert integer_to_roman(i) == n, description
  
 def check_roman2int(numeral, integer, description):
   """Check a Roman Numeral to Integer Conversion
@@ -73,7 +73,7 @@ def check_roman2int(numeral, integer, description):
   @exception AssertionError will be thrown for an invalid Roman Numeral."""
   i = integer
   n = numeral
-  assert (roman_to_integer(n) == i, description)
+  assert roman_to_integer(n) == i, description
 
 if __name__ == "__main__":
   """Runs the script tests"""
